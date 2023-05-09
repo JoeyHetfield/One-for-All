@@ -1,13 +1,14 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+# One for All
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+**This project is a collection of MySQL queries developed to train different commands. The challenges folder contains several files where the queries were created to meet specific requirements.**
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+### Installation 
+- To install the project, simply clone the repository using the following command:
+
+>  git clone git@github.com:JoeyHetfield/One-for-All.git
+>  
+- Then, navigate to the project directory and install the necessary dependencies by running:
+
+>  npm install
+
+**Feel free to clone the project and explore the challenges folder to see how these commands were implemented in different scenarios.**
